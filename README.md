@@ -7,8 +7,8 @@ Aiplaner is a private project that serves [purpose of the project].
 To get started with Aiplaner, follow these steps:
 
 1. Clone the repository.
-2. Install dependencies using: `npm run dev`
-
+2. Install dependencies using: `npm i`
+3. `npm run dev`: Runs the development server using Vite.
 
 ## Usage
 
