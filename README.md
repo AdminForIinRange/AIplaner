@@ -1,6 +1,6 @@
 # Aiplaner
 
-Aiplaner is a private project that serves [purpose of the project].
+
 
 ## Installation
 
